@@ -33,11 +33,6 @@ Hi, I’m Jayaprakash, a self-taught full-stack developer who learned everything
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/jayaprakash-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -46,8 +41,5 @@ Hi, I’m Jayaprakash, a self-taught full-stack developer who learned everything
 
 <a href="http://www.github.com/jayaprakash-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayaprakash-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/jayaprakash-dev"><img src="https://activity-graph.herokuapp.com/graph?username=jayaprakash-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <b>Top Repositories</b>
-
 <div width="100%" align="center"><a href="https://github.com/jayaprakash-dev/Python-Messenger" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jayaprakash-dev&repo=Python-Messenger&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jayaprakash-dev/Space-Shooter-pygame" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jayaprakash-dev&repo=Space-Shooter-pygame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
